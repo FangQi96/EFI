@@ -331,7 +331,7 @@
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>MinKernel</key>
 				<string></string>
 				<key>ExecutablePath</key>
@@ -354,6 +354,22 @@
 				<string>Contents/MacOS/RealtekRTL8111</string>
 				<key>BundlePath</key>
 				<string>RealtekRTL8111.kext</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string></string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+				<key>Enabled</key>
+				<true/>
+				<key>MinKernel</key>
+				<string></string>
+				<key>ExecutablePath</key>
+				<string></string>
+				<key>BundlePath</key>
+				<string>USBPorts.kext</string>
 			</dict>
 		</array>
 		<key>Block</key>
